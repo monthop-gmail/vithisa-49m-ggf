@@ -14,7 +14,8 @@
 ## เอกสาร
 
 - [ระบบรวมข้อมูล 300 สาขา + 500 หน่วยงานร่วมโครงการ (Google Form → PostgreSQL)](docs/google-form-300-branches.md)
-  - สถาปัตยกรรมที่แนะนำ (1 Form → 1 Sheet → PostgreSQL)
+  - สถาปัตยกรรมที่แนะนำ (1 Form + Pre-filled Link → 1 Sheet → PostgreSQL)
+  - แนวทางแก้ปัญหาชื่อหน่วยงานยาว (รหัสย่อ / แบ่งกลุ่ม / Pre-filled Link)
   - ประมาณการจำนวนข้อมูล
   - Database Schema พร้อม versioning
   - การแก้ไขข้อมูลย้อนหลัง
